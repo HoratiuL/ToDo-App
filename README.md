@@ -1,2 +1,2 @@
 # ToDo App
-You need only *.html and *.js files
+You need only *.html, *.js, *.css files

@@ -1,0 +1,46 @@
+/* div {
+    box-sizing: border-box;
+    width: 75%;
+    border: 2px solid greenyellow;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p1 {
+    width: 50%;
+    
+}
+
+input {
+    width: 50%;
+}
+
+input[type=date] {
+    width: 15%;
+    text-align: center;
+}
+
+button {
+    width: 25%;
+    
+}
+ */
+
+h1 {
+    text-align: center;
+}
+
+.close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 0 16px 0 16px;
+    /* font-size: xx-lera
+    background: ghostwhite;rge; */
+    font-size: 28px;
+    color: red;
+    font-weight: bolder;
+}
